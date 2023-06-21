@@ -1,5 +1,7 @@
 # sqlalchemy-challenge
 
+Resubmitted after updating the file path from absolute to relative as instructed
+
 Homework files: climate_final.ipynb and app.py
 
 Referenced course files, Slack, Stack Overflow, docs.sqlalchemy.org, tutorialspoint.com, AskBCS and ChatGPT to complete this homework
